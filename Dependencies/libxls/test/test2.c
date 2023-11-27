@@ -27,7 +27,6 @@
  * Copyright 2006 Christophe Leitienne
  * Copyright 2008-2012 David Hoerl
  *
- *
  */
 
 // THIS FILE LETS YOU QUICKLY FEED A .xls FILE FOR PARSING
