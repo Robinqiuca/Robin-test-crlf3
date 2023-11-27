@@ -28,6 +28,10 @@
  * Copyright 2008-2012 David Hoerl
  *
  */
+ 
+ /*
+ This is LF; converted to CRLF
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -36,7 +40,7 @@
 
 #include "libxls/xls.h"
 
-int main(int argc, char *argv[])
+int main(int argc1, char *argv[])
 {
 
     xlsWorkBook* pWB;
