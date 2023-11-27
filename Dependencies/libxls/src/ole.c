@@ -30,7 +30,7 @@
  *
  */
 
-#ifdef PIPELINE_TOOL
+#ifdef PIPELINE_TOOLLLLL
 
 #include <memory.h>
 #include <math.h>
